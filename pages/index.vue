@@ -10,10 +10,10 @@
           <span class="bar"></span>
         </div>
         <ul class="navbar-links" :class="{ 'active': menuActive }">
-          <li><router-link to="../pages/">Home</router-link></li>
-          <li><router-link to="../pages/about">About</router-link></li>
-          <li><router-link to="../pages/blog">Blog</router-link></li>
-          <li><router-link to="../pages/contact">Contact</router-link></li>
+          <li><a href="../pages/">Home</a></li>
+          <li><a href="../pages/about">About</a></li>
+          <li><a href="../pages/blog">Blog</a></li>
+          <li><a href="../pages/contact">Contact</a></li>
         </ul>
       </div>
     </nav>
@@ -23,7 +23,7 @@
       <div class="hero-content">
         <h1>Welcome to My Portfolio</h1>
         <p>I'm Prabhdeep Sidhu, a Web Developer with a passion for creating stunning websites.</p>
-        <NuxtLink to="./pages/about" class="cta-button">Learn More About Me</NuxtLink>
+        <a href="./pages/about" class="cta-button">Learn More About Me</a>
       </div>
     </section>
 
