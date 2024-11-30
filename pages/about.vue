@@ -3,12 +3,12 @@
     <!-- Navbar -->
     <nav class="navbar">
       <div class="container">
-        <router-link to="/" class="navbar-logo">Prabhdeep Singh</router-link>
+        <router-link to="../" class="navbar-logo">Prabhdeep Singh</router-link>
         <ul class="navbar-links">
-          <li><router-link to="/">Home</router-link></li>
-          <li><router-link to="/about">About</router-link></li>
-          <li><router-link to="/blog">Blog</router-link></li>
-          <li><router-link to="/contact">Contact</router-link></li>
+          <li><router-link to="../">Home</router-link></li>
+          <li><router-link to="../about">About</router-link></li>
+          <li><router-link to="../blog">Blog</router-link></li>
+          <li><router-link to="../contact">Contact</router-link></li>
         </ul>
       </div>
     </nav>
