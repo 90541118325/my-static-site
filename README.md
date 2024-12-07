@@ -9,6 +9,20 @@ The site is built using Nuxt.js, a popular static site generator.
 The site is hosted on GitHub Pages.
 The site is responsive and accessible.
 
+# Static Website - Showcase
+Welcome to my static website repository! Below are previews of the various pages.
+## Homepage
+![Homepage](assets/homepage.png)
+
+## About Page
+![About Page](assets/about.png)
+
+## Blog Page
+![Blog Page](assets/blog.png)
+
+## Contact Page
+![Contact Page](assets/contact.png)
+
 
 # Nuxt Minimal Starter
 
